@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "Which sport uses a shuttlecock?",
+      "options": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "In soccer, how many players are there on the field from each team?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 2,
+      "difficulty": "medium",
+      "points": 15
+    },
+    {
+      "question": "Which country is known for originating the sport of cricket?",
+      "options": ["India", "England", "Australia", "South Africa"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "What is the highest score one can achieve in a single turn in bowling?",
+      "options": ["100", "200", "300", "400"],
+      "answer": 2,
+      "difficulty": "hard",
+      "points": 20
+    },
+    {
+      "question": "Which tennis player has won the most Grand Slam singles titles as of 2021?",
+      "options": [
+        "Serena Williams",
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "points": 15
+    },
+    {
+      "question": "In American football, how many points is a touchdown worth?",
+      "options": ["3", "6", "7", "8"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "Which sport uses a circular ring and a net where players try to score by shooting a ball through the opponent's hoop?",
+      "options": ["Volleyball", "Soccer", "Basketball", "Handball"],
+      "answer": 2,
+      "difficulty": "medium",
+      "points": 15
+    },
+    {
+      "question": "What is the diameter of a standard basketball hoop in inches?",
+      "options": ["16", "18", "20", "22"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "Japan", "United Kingdom"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "In golf, what is the term for a hole completed three strokes under par?",
+      "options": ["Eagle", "Birdie", "Albatross", "Bogey"],
+      "answer": 0,
+      "difficulty": "hard",
+      "points": 20
+    },
+    {
+      "question": "Which sport is known as 'The Sport of Kings'?",
+      "options": ["Horse Racing", "Polo", "Soccer", "Rugby"],
+      "answer": 0,
+      "difficulty": "hard",
+      "points": 20
+    },
+    {
+      "question": "How many laps are there in a standard Formula 1 race?",
+      "options": ["30", "40", "50", "60"],
+      "answer": 2,
+      "difficulty": "medium",
+      "points": 15
+    },
+    {
+      "question": "Which country won the most medals in the 2020 Tokyo Olympics?",
+      "options": ["United States", "China", "Russia", "Japan"],
+      "answer": 0,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "In which sport would you perform a 'slam dunk'?",
+      "options": ["Basketball", "Tennis", "Golf", "Swimming"],
+      "answer": 0,
+      "difficulty": "easy",
+      "points": 10
+    },
+    {
+      "question": "What is the name of the famous race for three-year-old thoroughbred horses held annually in Kentucky?",
+      "options": [
+        "Belmont Stakes",
+        "Kentucky Derby",
+        "Preakness Stakes",
+        "Melbourne Cup"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "points": 15
+    }
+  ]
+}
