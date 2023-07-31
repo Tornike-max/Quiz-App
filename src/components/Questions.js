@@ -13,3 +13,6 @@ function Questions({ questions, dispatch, answer }) {
 }
 
 export default Questions;
+
+
+//use npm start
